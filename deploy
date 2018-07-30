@@ -1,0 +1,5 @@
+#!/bin/sh
+
+rsync -avz --delete /Users/peterkruyen.net/public-analytics/public/ miauw@peterkruyen.net:/var/www/html
+ 
+exit 0

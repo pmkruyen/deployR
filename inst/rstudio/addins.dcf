@@ -1,0 +1,4 @@
+Name: deploy website
+Description: deploy website via SSH
+Binding: deploy
+Interactive: false

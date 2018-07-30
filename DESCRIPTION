@@ -1,0 +1,10 @@
+Package: deployR
+Type: Package
+Title: ADDIN TO UPLOAD WEBSITE VIA SSH
+Version: 0.1.0
+Author: Peter Kruyen
+Maintainer: The package maintainer <p.m.kruyen@fm.ru.nl>
+Description: This is my first package for R, explained here: http://peterkruyen.net/post/post2-hosting/.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
